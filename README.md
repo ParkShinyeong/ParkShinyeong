@@ -45,7 +45,7 @@
 
 </div>
 <br />
-<div><img src="https://github-readme-stats.vercel.app/api?username=ParkShinyeong&show_icons=true">
+<div><img src="https://github-readme-stats.vercel.app/api?username=ParkShinyeong&show_icons=true" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkShinyeong&layout=compact"></div>
 
 <!-- ![Snake animation](https://github.com/ParkShinyeong/ParkShinyeong/blob/output/github-contribution-grid-snake.svg) -->
