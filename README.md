@@ -6,12 +6,6 @@
 
 <div align="center">
 
-🌱 I’m currently learning `Nest.JS`, `TypeORM`, `Docker`, `Redis`, `AWS`... <br />
-
-📝 I regularly write articles on [신영의 notion](https://sudsy-action-667.notion.site/5ed77b24085f42b8bd1c9e5c0b37d25d)<br />
-📫 How to reach me: **syngh503@gmail.com**<br />
-📄 Know about my experiences [신영](https://www.notion.so/5d1b3f0dee4c4a94ae8df34c4c3b50f2)
-<br />
 **Languages**
 
 <div>
