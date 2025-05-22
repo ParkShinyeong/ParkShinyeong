@@ -1,10 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=0:CEECF5,100:BCA9F5&height=200&section=header&text=Hi 👋, I'm shinyeong&fontSize=30&animation=fadeIn&fontAlignY=45" />
-  </p>
 
-<h3 align="center">A passionate Backend developer from Korea</h3>
-
-<div align="center">
 
 **Languages**
 
